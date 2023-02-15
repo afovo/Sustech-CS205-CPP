@@ -1,0 +1,17 @@
+Lab6 e3
+ Recursively reverse an array by pointer
+
+guard header file
+#ifndef HEADER_H_
+#define HEADER_H_
+#endif
+
+爆数据范围时表现为RE！
+
+Lab13
+永远不要在头文件里定义static 变量！！！！！！！！！！！！
+改了以后记得保存再编译！
+virtual func 调用由实体类型决定，其他则由指针类型决定
+
+Lab14
+template class的定义要放在头文件里
